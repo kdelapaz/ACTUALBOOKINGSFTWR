@@ -1,0 +1,22 @@
+MovieBookingSystemSoftwareChangelog
+
+Software Development & Design T2S1AssessmentTask
+
+Group 5: Liam Adao, Khris De La Paz, Jaylen Baylon-utan.
+
+PLEASE USE THE BLANK FORMAT BELOW WHEN USING THE CHANGE LOG!
+
+date:
+time/session: 
+member(s):
+	⁃	
+contributions:
+	⁃	
+milestones:
+	⁃
+problems/solutions:
+	⁃	
+
+ADD TO THIS DOCUMENT BELOW THIS TEXT SEGMENT!
+
+
