@@ -72,6 +72,33 @@ Begin WebPage WebPage1
       _OpenEventFired =   False
       _VerticalPercent=   0.0
    End
+   Begin WebButton Button1
+      AutoDisable     =   False
+      Caption         =   "Untitled"
+      Cursor          =   0
+      Enabled         =   True
+      Height          =   22
+      HelpTag         =   ""
+      HorizontalCenter=   0
+      Index           =   -2147483648
+      Left            =   203
+      LockBottom      =   False
+      LockedInPosition=   False
+      LockHorizontal  =   False
+      LockLeft        =   True
+      LockRight       =   False
+      LockTop         =   True
+      LockVertical    =   False
+      Scope           =   0
+      Style           =   "-1"
+      TabOrder        =   1
+      Top             =   147
+      VerticalCenter  =   0
+      Visible         =   True
+      Width           =   100
+      ZIndex          =   1
+      _NeedsRendering =   True
+   End
 End
 #tag EndWebPage
 
